@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SANITY_REACT_BLOG/static/css/main.6a635d52.css",
+    "main.js": "/SANITY_REACT_BLOG/static/js/main.78462176.js",
+    "static/js/787.25d8dcf7.chunk.js": "/SANITY_REACT_BLOG/static/js/787.25d8dcf7.chunk.js",
+    "index.html": "/SANITY_REACT_BLOG/index.html",
+    "main.6a635d52.css.map": "/SANITY_REACT_BLOG/static/css/main.6a635d52.css.map",
+    "main.78462176.js.map": "/SANITY_REACT_BLOG/static/js/main.78462176.js.map",
+    "787.25d8dcf7.chunk.js.map": "/SANITY_REACT_BLOG/static/js/787.25d8dcf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a635d52.css",
+    "static/js/main.78462176.js"
+  ]
+}
